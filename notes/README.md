@@ -9,7 +9,7 @@
 | 课次 | 主题 | 文件 | 状态 |
 |------|------|------|------|
 | 第 01 课 | 语言模型是什么？Transformer 的骨架 | `lesson_01_transformer_skeleton.md` | 🟡 进行中 |
-| 第 02 课 | 注意力机制：从点积到多头 | `lesson_02_attention.md` | ⬜ 未开始 |
+| 第 02 课 | 注意力机制：从点积到多头 | `lesson_02_attention.md` | 🟡 进行中 |
 | 第 03 课 | 位置编码：RoPE | `lesson_03_rope.md` | ⬜ 未开始 |
 | 第 04 课 | MLP、激活函数与残差流 | `lesson_04_mlp_residual.md` | ⬜ 未开始 |
 | 第 05 课 | 初始化策略与 muP 思想 | `lesson_05_init.md` | ⬜ 未开始 |
